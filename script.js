@@ -1,5 +1,5 @@
     const LINKS = {
-      prototype: "",   // e.g. "https://your-prototype-url.com"
+      prototype: "https://bhu-drishti-3d-black.vercel.app/",   // e.g. "https://your-prototype-url.com"
       youtube:   "",   // e.g. "https://youtube.com/watch?v=xxxx"
     };
     // ───────────────────────────────────────────────────────────
